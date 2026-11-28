@@ -22,6 +22,9 @@ Heroic is built with Web Technologies:
 [![Jest](https://img.shields.io/badge/Jest-18DF16?style=for-the-badge&logo=jest&labelColor=gray&logoColor=18DF16)](https://jestjs.io/)
 [![Vite](https://img.shields.io/badge/Vite-BD34FE?style=for-the-badge&logo=vite&labelColor=gray)](https://vitejs.dev/)
 
+## Contributors Announcement
+### Due to the High Influx of new PRs recently, we are pausing new contributions until our team finds time to review all open PRs from outside colaborators. We thanks everyone that is willing to contribute to the project but the new number of open PRs is hard to bear for us. You can still contribute with opening Issues for Bugs and Feature Requests and translating the app on Weblate.
+
 ## Index
 
 - [Heroic Games Launcher](#heroic-games-launcher)
